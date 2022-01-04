@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(198, 196, 196);
+}
+
+#container {
+  display: grid;
+}
+
+h2 {
+  color: rgb(55, 144, 154);
+  text-align: center;
+}
+
+.ph {
+  width: 35%;
+  height: 30px;
+  padding: 10px;
+}
