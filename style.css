@@ -4,6 +4,7 @@ body {
 
 #container {
   display: grid;
+  text-align: center;
 }
 
 h2 {
@@ -15,4 +16,9 @@ h2 {
   width: 35%;
   height: 30px;
   padding: 10px;
+}
+
+button {
+  width: 20%;
+  text-align: center;
 }
